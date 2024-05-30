@@ -1,5 +1,4 @@
 # Django Simple Multi-Vendor Website with Payment
----
 
 This is a simple MultiVendor e-commerce website built with Django (Python) and Stripe is added as payment processor.
 
@@ -10,7 +9,6 @@ And Users can visit the product and order by paying with Debit/Credit Card (Stri
 Then Vendor gets the email notification about the order and should deliver the product to the customer based on the address details.
 
 ## Features of this Project
----
 
 #### A. Admin Users Can
 
